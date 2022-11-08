@@ -1,0 +1,70 @@
+body {
+    color: white;
+}
+
+.header {
+    place-content: center;
+    place-items: center;
+}
+
+h1 {
+    color: yellow;
+}
+
+.body {
+    width: 900px;
+    margin: auto;
+    /*"Free Little Squares Stock BackgroundsEtc Wallpaper - Midnight Blue" by webtreats is licensed under CC BY 2.0.*/
+    background-image: url("Images/bluesquares.jpg");
+    border: yellow 5px outset;
+    padding: 20px;
+}
+
+.welcome {
+    width: 900px;
+    margin: auto;
+    /*"Free Little Squares Stock BackgroundsEtc Wallpaper - Midnight Blue" by webtreats is licensed under CC BY 2.0.*/
+    background-image: url("Images/bluesquares.jpg");
+    border: yellow 5px outset;
+    padding: 20px;
+}
+
+.welcome p {
+    color: white;
+    text-align: center;
+    font-size: 16pt;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    text-align: center;
+    color: yellow;
+    font-size: 12pt;
+}
+
+.hub {
+    width: 900px;
+    margin: auto;
+    /*"Free Starfield Stock BackgroundsEtc Wallpaper - Royal Blue" by webtreats is licensed under CC BY 2.0.*/
+    background-image: url("Images/background2.jpg");
+    border: yellow 5px outset;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.align td{
+    vertical-align: top;
+    padding: 10px
+}
+
+td{
+    padding: 0px;
+}
