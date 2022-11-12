@@ -7,8 +7,16 @@ body {
     place-items: center;
 }
 
+.header p {
+    margin-bottom: 0px;
+}
+
+
 h1 {
     color: yellow;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-shadow: 2px 2px 3px #0000FF;
 }
 
 .body {
@@ -39,6 +47,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 figcaption {
@@ -56,15 +65,29 @@ figcaption {
     padding: 20px;
 }
 
-h2{
+h2 {
     text-align: center;
 }
 
-.align td{
+.align td {
     vertical-align: top;
     padding: 10px
 }
 
-td{
+td {
     padding: 0px;
+}
+
+a {
+    color: yellow
+}
+
+a:visited {
+    color: orange
+}
+
+.footer {
+    text-align: center;
+    color: grey;
+
 }
