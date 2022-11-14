@@ -79,11 +79,11 @@ td {
 }
 
 a {
-    color: yellow
+    color: yellow;
 }
 
 a:visited {
-    color: orange
+    color: white;
 }
 
 .footer {
